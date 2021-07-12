@@ -15,7 +15,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Shruti Kumbhar</h1>
-<h3 align="center">• Pursuing B.Tech degree in Computer Science. • Passionate Android Developer and can work in a team. • Like to explore new Technologies. • Eager to contribute to phase of developing.</h3>
+<h3 align="center">Computer Science Enthusiast || Android Developer || Python</h3>
+
+### About me
+- Pursuing B.Tech degree in Computer Science.
+- Passionate Android Developer and can work in a team.
+- Like to explore new Technologies.
+- Eager to contribute to phase of developing.
 
 <h3>GitHub Stats</h3><break>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutik311&show_icons=true&locale=en" alt="shrutik311" /></p>
