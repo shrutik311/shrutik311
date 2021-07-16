@@ -13,7 +13,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shruti Kumbhar</h1>
-<h3 align="center">Computer Science Enthusiast || Android Developer  || Python</h3>
+<h3 align="center">Computer Science Enthusiast || Android Developer || Python</h3>
 
 ### About me
 - Pursuing B.Tech degree in Computer Science.
