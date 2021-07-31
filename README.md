@@ -22,7 +22,7 @@
 - Eager to contribute to phase of developing.
 
 <h3>GitHub Stats</h3><break>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutik311&show_icons=true&locale=en" alt="shrutik311" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutik311&show_icons=true&locale=en" alt="shrutik311" /></p>  -->
  <img src="https://github-readme-stats.vercel.app/api?username=shrutik311&&show_icons=true&count_private=true&theme=radical"/>
 
 <h3 align="left">Languages and Tools:</h3>
