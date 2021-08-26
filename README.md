@@ -1,7 +1,5 @@
 <!-- ### Hello, I'm Shruti Kumbhar!
 
-
-
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: ...
  -->
