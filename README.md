@@ -6,7 +6,7 @@
 <h3 align="center">Computer Science Enthusiast || Android Developer || Python</h3>
 
 ### About me
-- 💻 Pursuing B.Tech degree in Computer Science.
+- 💻 Pursuing B.Tech degree in Computer Science and Engineering.
 - 📱  Passionate Android Developer and can work in a team.
 - 🎀 Like to explore new Technologies.
 - 🤩 Eager to contribute to phase of developing.
