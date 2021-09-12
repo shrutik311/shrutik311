@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: ...
  -->
+ 
 <h1 align="center">Hi 👋, I'm Shruti Kumbhar</h1>
 <h3 align="center">Computer Science Enthusiast || Android Developer || Python</h3>
 
